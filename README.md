@@ -2,7 +2,7 @@
 JSTemplatify is a plugin for Sublime Text that converts the current selection to a JavaScript [template string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ## Keybindings
-- Convert current selection to JavaScript Template:  `ctrl` + `alt` + `J`, `ctrl` + `alt` + `T`"
+- Convert current selection to JavaScript Template:  `ctrl` + `alt` + `J`, `ctrl` + `alt` + `T`
 
 ## Example:
 ```javascript
