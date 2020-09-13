@@ -1,0 +1,6 @@
+[
+  {
+      "caption": "Convert to JS String Template",
+      "command": "js_templatify"
+  }
+]

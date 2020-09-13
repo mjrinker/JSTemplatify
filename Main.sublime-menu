@@ -1,0 +1,19 @@
+[
+  {
+      "id": "edit",
+      "children":
+      [
+  	    {
+  	        "id": "js_templatify",
+            "caption": "Convert to JS String Template",
+  	        "children":
+  	        [
+                {
+                    "caption": "Convert",
+                    "command": "js_templatify"
+                }
+  	        ]
+  	    }
+	    ]
+  }
+]

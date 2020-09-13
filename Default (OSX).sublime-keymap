@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+alt+j", "ctrl+alt+t"], "command": "js_templatify"}
+]
